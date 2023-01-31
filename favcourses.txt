@@ -1,0 +1,5 @@
+CITA 120
+CITA 150
+CITA 190
+Comp 102
+Econ 100
